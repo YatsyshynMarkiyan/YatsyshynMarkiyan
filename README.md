@@ -19,3 +19,40 @@ Frameworks: Flask, Django
 Databases: PostgreSQL, SQLite  
 APIs & Integrations: Telegram API, Discord API, Binance API, OpenAI GPT  
 Other Tools: Selenium, BeautifulSoup, Docker, Git  
+
+---
+
+# 💼 Featured Projects  
+
+## 🤖 AI-powered FAQ Bot  
+📝 Built an NLP-based chatbot that automatically answers FAQs using GPT & spaCy.  
+🔗 Integrated with Telegram & Discord for seamless interaction.  
+
+## 📈 Crypto Price Monitoring Bot  
+📊 Tracks token prices in real-time using Binance & CoinGecko APIs.  
+📢 Supports alerts, favorite tokens, and database integration.  
+
+## 🛒 E-commerce Automation Bot  
+🛍️ Developed a bot that allows users to order products directly via Telegram.  
+💳 Integrated PayPal & Stripe for secure payments.  
+
+## 🕵️ Web Scraping & Data Automation  
+🔍 Automated data extraction from websites using Selenium & BeautifulSoup.  
+📄 Exported structured reports to Google Sheets & CSV files.  
+
+---
+
+## 💡 Why Work With Me?  
+✅ **Efficiency:** I build scalable and optimized solutions that save time and enhance productivity.  
+✅ **Innovation:** I stay ahead of cutting-edge technologies to implement the best solutions.  
+✅ **Reliability:** My work is well-documented, structured, and maintainable.  
+
+---
+
+## 📬 Get in Touch  
+📂 **Portfolio:** [GitHub](#) | [Upwork](#)  
+💼 **LinkedIn:** [LinkedIn Profile](#)  
+💬 **Telegram:** [@YourUsername](#)  
+📧 **Email:** your.email@example.com  
+
+Let’s build something amazing together! 🚀  
