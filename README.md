@@ -12,13 +12,13 @@ I have experience developing projects of different complexity levels, from **sim
 ✔️ **Automation & Scraping** – Selenium, BeautifulSoup, Google Sheets API  
 ✔️ **AI & Machine Learning** – NLP, GPT-based applications  
 
-## 🛠️ Tech Stack  
-```yaml
-Languages: Python, JavaScript  
-Frameworks: Flask, Django  
-Databases: PostgreSQL, SQLite  
-APIs & Integrations: Telegram API, Discord API, Binance API, OpenAI GPT  
-Other Tools: Selenium, BeautifulSoup, Docker, Git  
+## 🛠 Tech Stack  
+
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Flask, Django  
+- **Databases:** PostgreSQL, SQLite  
+- **APIs & Integrations:** Telegram API, Discord API, Binance API, OpenAI GPT  
+- **Other Tools:** Selenium, BeautifulSoup, Docker, Git  
 
 ---
 
