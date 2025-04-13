@@ -1,11 +1,12 @@
-# 👨‍💻 Markiyan Yatsyshyn – Freelance Developer  
+# 👨‍💻 Markiyan Yatsyshyn – Freelance Developer | Data Analyst
 
-Hi, I’m **Markiyan Yatsyshyn**, a **19-year-old freelance developer** from Ukraine. I specialize in **bot development, web applications, and automation tools**, creating **efficient, scalable solutions** for businesses and individuals.  
+Hi, I’m **Markiyan Yatsyshyn**, a 19-year-old **freelance developer** and **data analyst** from Ukraine. I specialize in bot development, web applications, automation tools, and **data quality management**, creating efficient, scalable solutions for businesses and individuals.
 
 ## 🚀 What I Do  
-I have experience developing projects of different complexity levels, from **simple Telegram/Discord bots** to **advanced AI-powered automation systems, blockchain integrations, and web applications**.  
+I have experience developing projects of different complexity levels, from simple **Telegram/Discord bots to advanced AI-powered automation systems, blockchain integrations, web applications, and data analytics solutions.**
 
-🔹 **Main focus areas:**  
+🔹 **Main focus areas:**
+✔️ **Data Quality & Analysis** – Data validation, cleansing, reporting (PowerBI, Tableau)
 ✔️ **Chatbots** – AI-powered FAQ bots, automation tools  
 ✔️ **Web Development** – Flask, Django, REST APIs  
 ✔️ **Blockchain & Crypto** – Smart contracts, Solana/Ethereum integration  
@@ -14,11 +15,14 @@ I have experience developing projects of different complexity levels, from **sim
 
 ## 🛠 Tech Stack  
 
-- **Languages:** Python, JavaScript  
+- **Languages:** Python, JavaScript, SQL, C#, C++, HTML, CSS  
 - **Frameworks:** Flask, Django  
-- **Databases:** PostgreSQL, SQLite  
+- **Databases:** PostgreSQL, SQLite, TransactSQL
+- **ETL Tools:** Azure Data Factory, SQL-based ETL pipelines
 - **APIs & Integrations:** Telegram API, Discord API, Binance API, OpenAI GPT  
-- **Other Tools:** Selenium, BeautifulSoup, Docker, Git  
+- **Other Tools:** Selenium, BeautifulSoup, Docker, Git
+- **Data visualisation:** PowerBI, Tableau
+- **Cloud Computing:** Microsoft Azure
 
 ---
 
@@ -39,6 +43,14 @@ I have experience developing projects of different complexity levels, from **sim
 ## 🕵️ Web Scraping & Data Automation  
 🔍 Automated data extraction from websites using Selenium & BeautifulSoup.  
 📄 Exported structured reports to Google Sheets & CSV files.  
+
+## 📊 Data Quality Monitoring Pipeline
+✅ Designed an automated ETL process in Microsoft Azure to validate, clean, and load data into a centralized database.
+📊 Implemented error tracking, anomaly detection, and automated reporting using SQL and PowerBI.
+
+## Tracker app
+🔍 This application searches for available clothing stores around you with their schedules and discounts based on your geolocation.
+📊 Integreted google maps and database with shops.
 
 ---
 
